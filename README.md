@@ -1,2 +1,3 @@
-the-i-need-coffee-shop-website
-==============================
+# The I Need Coffee! Shop Website
+
+A Bootstrap prototype
