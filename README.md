@@ -1,3 +1,5 @@
-the-i-need-coffee-shop-website
-==============================
-See gh-pages branch for files
+# The I Need Coffee Shop Website
+
+A Bootstrap prototype; See gh-pages branch for files
+
+
